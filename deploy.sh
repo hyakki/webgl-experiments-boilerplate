@@ -20,6 +20,6 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:hyakki/webgl-experiments-s3e42.git master:gh-pages
+git push -f git@github.com:hyakki/webgl-experiments-boilerplate.git master:gh-pages
 
 cd -
